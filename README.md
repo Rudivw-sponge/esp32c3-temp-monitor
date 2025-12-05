@@ -14,7 +14,7 @@ data using the WinTmp library and sends it to the ESP32-C3 display for real-time
 
 ## Installation
 1. Clone the repository
-    git clone https://github.com/<your>/repo.git
+    git clone https://github.com/Rudivw-sponge/esp32c3-temp-monitor
 
 2. Install required Python packages with requirements.txt
     pip install -r requirements.txt
